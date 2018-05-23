@@ -8,9 +8,10 @@ RUN npm install
 
 COPY ./conf/*.js ./
 
-EXPOSE 8000
+EXPOSE 8002
 
-#
 CMD ["npm", "start"]
+
+##
 
 
