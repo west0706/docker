@@ -11,3 +11,5 @@ COPY ./conf/*.js ./
 EXPOSE 8002
 
 CMD ["npm", "start"]
+
+
