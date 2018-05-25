@@ -12,6 +12,4 @@ EXPOSE 8002
 
 CMD ["npm", "start"]
 
-##
-
 
